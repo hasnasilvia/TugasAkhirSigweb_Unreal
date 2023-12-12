@@ -1,0 +1,13 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\windows\\OneDrive\\Documents\\Unreal Projects\\TugasAkhirSIGWEB\\Source\\TugasAkhirSIGWEB\\TugasAkhirSIGWEB.Build.cs",
+		"C:\\Users\\windows\\OneDrive\\Documents\\Unreal Projects\\TugasAkhirSIGWEB\\Intermediate\\Source\\TugasAkhirSIGWEB.Build.cs",
+		"C:\\Users\\windows\\OneDrive\\Documents\\Unreal Projects\\TugasAkhirSIGWEB\\Source\\TugasAkhirSIGWEB.Target.cs",
+		"C:\\Users\\windows\\OneDrive\\Documents\\Unreal Projects\\TugasAkhirSIGWEB\\Source\\TugasAkhirSIGWEBEditor.Target.cs",
+		"C:\\Users\\windows\\OneDrive\\Documents\\Unreal Projects\\TugasAkhirSIGWEB\\Intermediate\\Source\\TugasAkhirSIGWEB.Target.cs",
+		"C:\\Users\\windows\\OneDrive\\Documents\\Unreal Projects\\TugasAkhirSIGWEB\\Intermediate\\Source\\TugasAkhirSIGWEBClient.Target.cs",
+		"C:\\Users\\windows\\OneDrive\\Documents\\Unreal Projects\\TugasAkhirSIGWEB\\Intermediate\\Source\\TugasAkhirSIGWEBEditor.Target.cs",
+		"C:\\Users\\windows\\OneDrive\\Documents\\Unreal Projects\\TugasAkhirSIGWEB\\Intermediate\\Source\\TugasAkhirSIGWEBServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
